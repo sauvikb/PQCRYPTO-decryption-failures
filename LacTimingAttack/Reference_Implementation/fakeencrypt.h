@@ -1,1 +1,0 @@
-int fake_enc(const unsigned char *pk, unsigned char mlen, unsigned char *c, int pos, int offset);
